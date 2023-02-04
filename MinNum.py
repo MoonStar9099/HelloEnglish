@@ -1,5 +1,5 @@
 def MinNum():
-    print("-------------------- Least Number --------------------") # number 1
+    print("-------------------- Least Number --------------------") #number 2
     print('Welcome to Least Number!')
     input_string = input('To begin, enter a list of numbers separated by spaces.')
     lista = input_string.split()
